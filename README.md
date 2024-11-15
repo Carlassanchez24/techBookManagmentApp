@@ -38,7 +38,7 @@ La aplicación de consola permite a los usuarios gestionar una colección de lib
 - [x]  Ver todos los libros: Presenta una lista con los libros en la colección.  
 - [x] Añadir un nuevo libro: Permite introducir un nuevo libro con título, autor e ISBN (una letra seguida de tres números).  
 - [x] Eliminar un libro: Elimina un libro de la colección al ingresar su ISBN.
-- [x] cambiar de repositorio: Permite cambiar el sistema de almacenamiento de libros, en memoria o en la base de datos.  
+- [x] Cambiar de repositorio: Permite cambiar el sistema de almacenamiento de libros, en memoria o en la base de datos.  
 - [x] Salir de la aplicación: Termina la ejecución del programa.  
 
 ## Tecnologías Utilizadas
