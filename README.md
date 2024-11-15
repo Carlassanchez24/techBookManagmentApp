@@ -57,7 +57,6 @@ Este proyecto utiliza las siguientes tecnologías y herramientas:
 El proyecto está compuesto por tres archivos principales:
 
 - **Main.java**: Punto de entrada de la aplicación. Inicializa el sistema y llama al método para mostrar el menú interactivo.
-- **Application.java**: Contiene la lógica principal de la aplicación, incluyendo el menú, los métodos de añadir, eliminar y ver libros, y validaciones de entrada del usuario.
 - **Book.java**: Define la estructura de un libro con los atributos título, autor e ISBN.
 - **Tests**: Se han implementado pruebas unitarias básicas para verificar el funcionamiento de los métodos en el repositorio de libros. 
 ---
