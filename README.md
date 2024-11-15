@@ -51,8 +51,6 @@ Este proyecto utiliza las siguientes tecnologías y herramientas:
 - **IntelliJ IDEA / Eclipse**: IDEs recomendados para desarrollo en Java.
 - **draw.io**: Herramienta para crear diagramas UML.
 
-> Nota: Este proyecto está diseñado para ser ejecutado en una interfaz de consola, pero puede integrarse con Spring para una estructura más avanzada o persistencia en base de datos.
-
 
 ## Estructura del Proyecto
 
