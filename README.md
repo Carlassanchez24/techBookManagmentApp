@@ -46,7 +46,7 @@ Este proyecto utiliza las siguientes tecnologías y herramientas:
 - **Java 21 (Corretto)**: Lenguaje de programación principal.
 - **JUnit 5**: Framework para la implementación de tests unitarios.
 - **Maven**: Sistema de gestión de dependencias y compilación.
-- **MySQL**: Base de datos relacional (opcional en el caso de una versión con persistencia).
+- **MySQL**: Base de datos relacional.
 - **Git**: Control de versiones para la gestión de cambios en el código.
 - **IntelliJ IDEA / Eclipse**: IDEs recomendados para desarrollo en Java.
 - **draw.io**: Herramienta para crear diagramas UML.
